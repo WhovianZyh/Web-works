@@ -1,0 +1,14 @@
+E:\BianchengProject\C# for mvs2022\test4_1\test4_1\bin\Debug\net6.0\test4_1.exe
+E:\BianchengProject\C# for mvs2022\test4_1\test4_1\bin\Debug\net6.0\test4_1.deps.json
+E:\BianchengProject\C# for mvs2022\test4_1\test4_1\bin\Debug\net6.0\test4_1.runtimeconfig.json
+E:\BianchengProject\C# for mvs2022\test4_1\test4_1\bin\Debug\net6.0\test4_1.dll
+E:\BianchengProject\C# for mvs2022\test4_1\test4_1\bin\Debug\net6.0\test4_1.pdb
+E:\BianchengProject\C# for mvs2022\test4_1\test4_1\obj\Debug\net6.0\test4_1.GeneratedMSBuildEditorConfig.editorconfig
+E:\BianchengProject\C# for mvs2022\test4_1\test4_1\obj\Debug\net6.0\test4_1.AssemblyInfoInputs.cache
+E:\BianchengProject\C# for mvs2022\test4_1\test4_1\obj\Debug\net6.0\test4_1.AssemblyInfo.cs
+E:\BianchengProject\C# for mvs2022\test4_1\test4_1\obj\Debug\net6.0\test4_1.csproj.CoreCompileInputs.cache
+E:\BianchengProject\C# for mvs2022\test4_1\test4_1\obj\Debug\net6.0\test4_1.dll
+E:\BianchengProject\C# for mvs2022\test4_1\test4_1\obj\Debug\net6.0\refint\test4_1.dll
+E:\BianchengProject\C# for mvs2022\test4_1\test4_1\obj\Debug\net6.0\test4_1.pdb
+E:\BianchengProject\C# for mvs2022\test4_1\test4_1\obj\Debug\net6.0\test4_1.genruntimeconfig.cache
+E:\BianchengProject\C# for mvs2022\test4_1\test4_1\obj\Debug\net6.0\ref\test4_1.dll
